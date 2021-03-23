@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<multiagentproblem>
+  <environment>
+    <boundary>104,103 103,2097 1577,2098 1578,1198 1663,1192 1669,2097 2097,2098 2098,104 </boundary>
+    <obstacles>
+      <obstacle>673,1308 1089,1305 1092,1629 676,1632 </obstacle>
+      <obstacle>1397,534 1635,531 1638,711 1400,714 </obstacle>
+      <obstacle>550,447 956,450 953,900 547,897 </obstacle>
+    </obstacles>
+  </environment>
+</multiagentproblem>

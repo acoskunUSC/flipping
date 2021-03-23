@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<multiagentproblem>
+  <environment>
+    <boundary>75,216 76,385 977,384 977,216 616,214 613,42 433,42 425,216 </boundary>
+    <obstacles/>
+  </environment>
+</multiagentproblem>

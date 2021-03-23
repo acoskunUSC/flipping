@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<multiagentproblem>
+<environment>
+<obstacles>
+	<circle center="300,300" radius="100" />
+	<circle center="300,700" radius="100" />
+	<circle center="700,300" radius="100" />
+	<circle center="700,700" radius="100" />
+</obstacles>
+<boundary>-500,-500 -500,1500 1500,1500 1500,-500  </boundary>
+</environment>
+<agents>
+</agents>
+</multiagentproblem>
