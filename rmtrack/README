@@ -1,0 +1,21 @@
+RMTRACK -- Robust Multi-robot Trajectory Tracking under Delaying Disturbances  
+=============================================================================
+
+This repository contains an implementation of RMTRACK algorithm and the dataset used for experimental comparision as described in the paper:
+
+Michal Cap and Jean Gregoire and Emilio Frazzoli: "Provably Safe and Deadlock-Free Execution of Multi-Robot Plans under Delaying Disturbances", IROS 2016 (in review), 2016.
+
+
+1. Dependencies:
+----------------
+To run the experiment and process the data, you need GNU parallel, R and other non-standard dependencies. In Ubuntu 14.04 you can install them by running:
+
+$ sudo apt-get install parallel r-cran-plyr r-cran-ggplot2
+
+
+2. Recomputing the experiment:
+------------------------------------
+
+To recompute the entire experiment, run the following command:
+
+$ ./run-experiment.sh
